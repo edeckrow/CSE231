@@ -4,13 +4,11 @@ This is an archived copy of a repository I used to run for my students when I wa
 
 This is, importantly, a **copy** of the old repository, as there used to be answers to particular assignments hosted here. These answers have been removed from this copy, among other things. The **original** version of this repository no longer appears on Google, as I have privatized it.
 
-You may feel free to reference the materials here if you find them useful. Though note that you will not find explicit answers to any assignment. If you are looking for such a resource, you should go to help room or talk with the professors about how to proceed with this course. Attempting to cheat in a 200-level course does not bode well for your future - especially if you're a computer science major.
+You may feel free to reference the materials here if you find them useful. Though note that you will not find explicit answers to any assignment.
 
 The lecture slides hosted here were all made from scratch by yours truly. They are *example-based* presentations, as opposed to Dr. Enbody's more conceptual presentations. I would typically go through the example code with PythonTutor or my debugger. Many of my previous students have said that they find them extremely helpful compared to Dr. Enbody's presentations, though I had not seen a significant difference in performance from my students compared to other sections' students (might not have had enough data, but that was the conclusion given two sets of around 20 students).
 
 There's also a "cheatsheet" for every data structure type in Python, inside the "Cheatsheets" folder. These are basically copies of the official Python documentation pages but simplified a little.
-
-Have fun. Stay productive. Don't cheat yourself.
 
 Cheers,
 
